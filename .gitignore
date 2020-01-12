@@ -1,2 +1,6 @@
 # skip emacs backup files
 *~
+# Python virtualenv
+env/
+# Vscode workspace settings
+.vscode/
