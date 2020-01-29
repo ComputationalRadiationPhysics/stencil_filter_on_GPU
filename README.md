@@ -13,10 +13,10 @@ At the moment, please consider this project at **work in progess**.
 
 ## TODO List (13.1.2020):
 
-- (1) shared mem. implementation test.
-- (2) quick sort with gpu.
+- (1) shared mem. implementation test.                                ==> **done** 
+- (2) quick sort with gpu.                                            ==> **impossible in numba**
 - (3) read real data with API and test.
-- (4) verify the result of cpu implementation and gpu implementation.
+- (4) verify the result of cpu implementation and gpu implementation. ==> **done**
 - (5) zero-padding implementation.
 - (6) profiling.
 
